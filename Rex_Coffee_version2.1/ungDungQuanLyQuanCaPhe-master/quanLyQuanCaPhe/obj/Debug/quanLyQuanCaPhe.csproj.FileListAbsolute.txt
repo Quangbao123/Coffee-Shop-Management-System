@@ -1,0 +1,188 @@
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\quanLyQuanCaPhe.exe.config
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\quanLyQuanCaPhe.exe
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\quanLyQuanCaPhe.pdb
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.Data.Desktop.v24.1.dll
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.Data.v24.1.dll
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.Drawing.v24.1.dll
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.Printing.v24.1.Core.dll
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.Utils.v24.1.dll
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.XtraBars.v24.1.dll
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.XtraEditors.v24.1.dll
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.XtraGrid.v24.1.dll
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.XtraLayout.v24.1.dll
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.XtraPrinting.v24.1.dll
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.XtraScheduler.v24.1.Core.Desktop.dll
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.XtraScheduler.v24.1.Core.dll
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.XtraScheduler.v24.1.dll
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.Pdf.v24.1.Core.dll
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.Pdf.v24.1.Drawing.dll
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.Sparkline.v24.1.Core.dll
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.RichEdit.v24.1.Core.dll
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.XtraTreeList.v24.1.dll
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.Images.v24.1.dll
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.Office.v24.1.Core.dll
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.Data.Desktop.v24.1.xml
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.Data.v24.1.xml
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.Drawing.v24.1.xml
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.Printing.v24.1.Core.xml
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.Utils.v24.1.xml
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.XtraBars.v24.1.xml
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.XtraEditors.v24.1.xml
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.XtraGrid.v24.1.xml
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.XtraLayout.v24.1.xml
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.XtraPrinting.v24.1.xml
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.XtraScheduler.v24.1.xml
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.XtraScheduler.v24.1.Core.xml
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.XtraScheduler.v24.1.Core.Desktop.xml
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.Pdf.v24.1.Core.xml
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.Pdf.v24.1.Drawing.xml
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.Sparkline.v24.1.Core.xml
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.RichEdit.v24.1.Core.xml
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.XtraTreeList.v24.1.xml
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.Office.v24.1.Core.xml
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.CashierIssueInvoice.resources
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.CashierViewOrderList.resources
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.FunctionStatusOrderWaiter.resources
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.FirstForm.resources
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.EmailForm.resources
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.frmDS.resources
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.frmDSB.resources
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.frmMenu.resources
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.frmOptions.resources
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.frmQR.resources
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.FunctionFormAdmin.resources
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.FunctionFormBarista.resources
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.FunctionFormCashier.resources
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.FunctionFormWaiter.resources
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.FunctionTBaoBarista.resources
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.FunctionTBPVWaiter.resources
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.LoginFormAdmin.resources
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.LoginFormBarista.resources
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.LoginFormCashier.resources
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.Properties.Resources.resources
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.LoginFormWaiter.resources
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.FORGOTPASSWORDFORM2.resources
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.TinhTrangOrderForm.resources
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.FunctionViewOrderBarista.resources
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.exe.licenses
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQu.8A2D457B.Up2Date
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.exe
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.pdb
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.frmxsdp.resources
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.frmtttb.resources
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.frm_xttb.resources
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.frm_cnttb.resources
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.frm_xemtk.resources
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.frm_themtk.resources
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.frm_ttk.resources
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.frm_xtk.resources
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.frm_cntk.resources
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.frm_viewmn.resources
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.frm_xoamenu.resources
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.frm_tmenu.resources
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.frm_cnmenu.resources
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.frm_viewqr.resources
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.frm_themqr.resources
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.frm_xoaqr.resources
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.frm_cnqt.resources
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.frm_xemgia.resources
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.frm_tanggia.resources
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.frm_giamgia.resources
+C:\Users\DELL\Documents\ungDungQuanLyQuanCaPhe-master (2)\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.frm_xemdoanhthu.resources
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\quanLyQuanCaPhe.exe.config
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\quanLyQuanCaPhe.exe
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\quanLyQuanCaPhe.pdb
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.Data.Desktop.v24.1.dll
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.Data.v24.1.dll
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.Drawing.v24.1.dll
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.Printing.v24.1.Core.dll
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.Utils.v24.1.dll
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.XtraBars.v24.1.dll
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.XtraEditors.v24.1.dll
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.XtraGrid.v24.1.dll
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.XtraLayout.v24.1.dll
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.XtraPrinting.v24.1.dll
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.XtraScheduler.v24.1.Core.Desktop.dll
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.XtraScheduler.v24.1.Core.dll
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.XtraScheduler.v24.1.dll
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.Pdf.v24.1.Core.dll
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.Pdf.v24.1.Drawing.dll
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.Sparkline.v24.1.Core.dll
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.RichEdit.v24.1.Core.dll
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.XtraTreeList.v24.1.dll
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.Images.v24.1.dll
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.Office.v24.1.Core.dll
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.Data.Desktop.v24.1.xml
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.Data.v24.1.xml
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.Drawing.v24.1.xml
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.Printing.v24.1.Core.xml
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.Utils.v24.1.xml
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.XtraBars.v24.1.xml
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.XtraEditors.v24.1.xml
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.XtraGrid.v24.1.xml
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.XtraLayout.v24.1.xml
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.XtraPrinting.v24.1.xml
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.XtraScheduler.v24.1.xml
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.XtraScheduler.v24.1.Core.xml
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.XtraScheduler.v24.1.Core.Desktop.xml
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.Pdf.v24.1.Core.xml
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.Pdf.v24.1.Drawing.xml
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.Sparkline.v24.1.Core.xml
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.RichEdit.v24.1.Core.xml
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.XtraTreeList.v24.1.xml
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\bin\Debug\DevExpress.Office.v24.1.Core.xml
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.csproj.AssemblyReference.cache
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.CashierIssueInvoice.resources
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.CashierViewOrderList.resources
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.frmtttb.resources
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.frmxsdp.resources
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.frm_cnmenu.resources
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.frm_cnqt.resources
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.frm_cntk.resources
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.frm_cnttb.resources
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.frm_giamgia.resources
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.frm_tanggia.resources
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.frm_themqr.resources
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.frm_themtk.resources
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.frm_tmenu.resources
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.frm_ttk.resources
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.frm_viewmn.resources
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.frm_viewqr.resources
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.frm_xemdoanhthu.resources
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.frm_xemgia.resources
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.frm_xemtk.resources
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.frm_xoamenu.resources
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.frm_xoaqr.resources
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.frm_xtk.resources
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.frm_xttb.resources
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.FunctionStatusOrderWaiter.resources
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.FirstForm.resources
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.EmailForm.resources
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.frmDS.resources
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.frmDSB.resources
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.frmMenu.resources
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.frmOptions.resources
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.frmQR.resources
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.FunctionFormAdmin.resources
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.FunctionFormBarista.resources
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.FunctionFormCashier.resources
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.FunctionFormWaiter.resources
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.FunctionTBaoBarista.resources
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.FunctionTBPVWaiter.resources
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.LoginFormAdmin.resources
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.LoginFormBarista.resources
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.LoginFormCashier.resources
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.Properties.Resources.resources
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.LoginFormWaiter.resources
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.FORGOTPASSWORDFORM2.resources
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.TinhTrangOrderForm.resources
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.FunctionViewOrderBarista.resources
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.csproj.GenerateResource.cache
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.exe.licenses
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.csproj.CoreCompileInputs.cache
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQu.8A2D457B.Up2Date
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.exe
+D:\Rex_Coffee_version2.1\ungDungQuanLyQuanCaPhe-master\quanLyQuanCaPhe\obj\Debug\quanLyQuanCaPhe.pdb

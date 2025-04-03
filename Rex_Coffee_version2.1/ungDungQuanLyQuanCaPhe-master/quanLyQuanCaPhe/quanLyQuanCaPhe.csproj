@@ -1,0 +1,484 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7B149B16-D300-4BE4-A92D-7B99F3CA86E6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>quanLyQuanCaPhe</RootNamespace>
+    <AssemblyName>quanLyQuanCaPhe</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Data.Desktop.v24.1, Version=24.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v24.1, Version=24.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Drawing.v24.1, Version=24.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Printing.v24.1.Core, Version=24.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v24.1, Version=24.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraBars.v24.1, Version=24.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v24.1, Version=24.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v24.1, Version=24.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v24.1, Version=24.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraPrinting.v24.1, Version=24.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraScheduler.v24.1, Version=24.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v24.1.Core, Version=24.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraScheduler.v24.1.Core.Desktop, Version=24.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CashierIssueInvoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CashierIssueInvoice.Designer.cs">
+      <DependentUpon>CashierIssueInvoice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CashierViewOrderList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CashierViewOrderList.Designer.cs">
+      <DependentUpon>CashierViewOrderList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmtttb.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmtttb.Designer.cs">
+      <DependentUpon>frmtttb.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmxsdp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmxsdp.Designer.cs">
+      <DependentUpon>frmxsdp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_cnmenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_cnmenu.Designer.cs">
+      <DependentUpon>frm_cnmenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_cnqt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_cnqt.Designer.cs">
+      <DependentUpon>frm_cnqt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_cntk.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_cntk.Designer.cs">
+      <DependentUpon>frm_cntk.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_cnttb.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_cnttb.Designer.cs">
+      <DependentUpon>frm_cnttb.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_giamgia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_giamgia.Designer.cs">
+      <DependentUpon>frm_giamgia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_tanggia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_tanggia.Designer.cs">
+      <DependentUpon>frm_tanggia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_themqr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_themqr.Designer.cs">
+      <DependentUpon>frm_themqr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_themtk.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_themtk.Designer.cs">
+      <DependentUpon>frm_themtk.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_tmenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_tmenu.Designer.cs">
+      <DependentUpon>frm_tmenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_ttk.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_ttk.Designer.cs">
+      <DependentUpon>frm_ttk.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_viewmn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_viewmn.Designer.cs">
+      <DependentUpon>frm_viewmn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_viewqr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_viewqr.Designer.cs">
+      <DependentUpon>frm_viewqr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_xemdoanhthu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_xemdoanhthu.Designer.cs">
+      <DependentUpon>frm_xemdoanhthu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_xemgia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_xemgia.Designer.cs">
+      <DependentUpon>frm_xemgia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_xemtk.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_xemtk.Designer.cs">
+      <DependentUpon>frm_xemtk.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_xoamenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_xoamenu.Designer.cs">
+      <DependentUpon>frm_xoamenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_xoaqr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_xoaqr.Designer.cs">
+      <DependentUpon>frm_xoaqr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_xtk.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_xtk.Designer.cs">
+      <DependentUpon>frm_xtk.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_xttb.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_xttb.Designer.cs">
+      <DependentUpon>frm_xttb.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FunctionStatusOrderWaiter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FunctionStatusOrderWaiter.Designer.cs">
+      <DependentUpon>FunctionStatusOrderWaiter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FirstForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FirstForm.Designer.cs">
+      <DependentUpon>FirstForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmailForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmailForm.Designer.cs">
+      <DependentUpon>EmailForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDS.Designer.cs">
+      <DependentUpon>frmDS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDSB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDSB.Designer.cs">
+      <DependentUpon>frmDSB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMenu.Designer.cs">
+      <DependentUpon>frmMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmOptions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOptions.Designer.cs">
+      <DependentUpon>frmOptions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQR.Designer.cs">
+      <DependentUpon>frmQR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FunctionFormAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FunctionFormAdmin.Designer.cs">
+      <DependentUpon>FunctionFormAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FunctionFormBarista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FunctionFormBarista.Designer.cs">
+      <DependentUpon>FunctionFormBarista.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FunctionFormCashier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FunctionFormCashier.Designer.cs">
+      <DependentUpon>FunctionFormCashier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FunctionFormWaiter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FunctionFormWaiter.Designer.cs">
+      <DependentUpon>FunctionFormWaiter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FunctionTBaoBarista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FunctionTBaoBarista.Designer.cs">
+      <DependentUpon>FunctionTBaoBarista.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FunctionTBPVWaiter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FunctionTBPVWaiter.Designer.cs">
+      <DependentUpon>FunctionTBPVWaiter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginFormAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginFormAdmin.Designer.cs">
+      <DependentUpon>LoginFormAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginFormBarista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginFormBarista.Designer.cs">
+      <DependentUpon>LoginFormBarista.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginFormCashier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginFormCashier.Designer.cs">
+      <DependentUpon>LoginFormCashier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="LoginFormWaiter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginFormWaiter.Designer.cs">
+      <DependentUpon>LoginFormWaiter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ForgotPassword2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ForgotPassword2.Designer.cs">
+      <DependentUpon>ForgotPassword2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TinhTrangOrderForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TinhTrangOrderForm.Designer.cs">
+      <DependentUpon>TinhTrangOrderForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FunctionViewOrderBarista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FunctionViewOrderBarista.Designer.cs">
+      <DependentUpon>FunctionViewOrderBarista.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="CashierIssueInvoice.resx">
+      <DependentUpon>CashierIssueInvoice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CashierViewOrderList.resx">
+      <DependentUpon>CashierViewOrderList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmtttb.resx">
+      <DependentUpon>frmtttb.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmxsdp.resx">
+      <DependentUpon>frmxsdp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_cnmenu.resx">
+      <DependentUpon>frm_cnmenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_cnqt.resx">
+      <DependentUpon>frm_cnqt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_cntk.resx">
+      <DependentUpon>frm_cntk.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_cnttb.resx">
+      <DependentUpon>frm_cnttb.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_giamgia.resx">
+      <DependentUpon>frm_giamgia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_tanggia.resx">
+      <DependentUpon>frm_tanggia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_themqr.resx">
+      <DependentUpon>frm_themqr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_themtk.resx">
+      <DependentUpon>frm_themtk.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_tmenu.resx">
+      <DependentUpon>frm_tmenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_ttk.resx">
+      <DependentUpon>frm_ttk.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_viewmn.resx">
+      <DependentUpon>frm_viewmn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_viewqr.resx">
+      <DependentUpon>frm_viewqr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_xemdoanhthu.resx">
+      <DependentUpon>frm_xemdoanhthu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_xemgia.resx">
+      <DependentUpon>frm_xemgia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_xemtk.resx">
+      <DependentUpon>frm_xemtk.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_xoamenu.resx">
+      <DependentUpon>frm_xoamenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_xoaqr.resx">
+      <DependentUpon>frm_xoaqr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_xtk.resx">
+      <DependentUpon>frm_xtk.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_xttb.resx">
+      <DependentUpon>frm_xttb.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FunctionStatusOrderWaiter.resx">
+      <DependentUpon>FunctionStatusOrderWaiter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FirstForm.resx">
+      <DependentUpon>FirstForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmailForm.resx">
+      <DependentUpon>EmailForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDS.resx">
+      <DependentUpon>frmDS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDSB.resx">
+      <DependentUpon>frmDSB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMenu.resx">
+      <DependentUpon>frmMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOptions.resx">
+      <DependentUpon>frmOptions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQR.resx">
+      <DependentUpon>frmQR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FunctionFormAdmin.resx">
+      <DependentUpon>FunctionFormAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FunctionFormBarista.resx">
+      <DependentUpon>FunctionFormBarista.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FunctionFormCashier.resx">
+      <DependentUpon>FunctionFormCashier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FunctionFormWaiter.resx">
+      <DependentUpon>FunctionFormWaiter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FunctionTBaoBarista.resx">
+      <DependentUpon>FunctionTBaoBarista.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FunctionTBPVWaiter.resx">
+      <DependentUpon>FunctionTBPVWaiter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginFormAdmin.resx">
+      <DependentUpon>LoginFormAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginFormBarista.resx">
+      <DependentUpon>LoginFormBarista.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginFormCashier.resx">
+      <DependentUpon>LoginFormCashier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="LoginFormWaiter.resx">
+      <DependentUpon>LoginFormWaiter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ForgotPassword2.resx">
+      <DependentUpon>ForgotPassword2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TinhTrangOrderForm.resx">
+      <DependentUpon>TinhTrangOrderForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FunctionViewOrderBarista.resx">
+      <DependentUpon>FunctionViewOrderBarista.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
